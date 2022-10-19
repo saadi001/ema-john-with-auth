@@ -17,3 +17,11 @@
 .header a:hover{
     color: orange;
 }
+.userName{
+    color: white;
+    margin-left: 10px;
+}
+.logoutBtn{
+    margin-left: 10px;
+    cursor: pointer;
+}
